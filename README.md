@@ -8,6 +8,7 @@ Das ist ein Beispieltext mit einigen Worten. Die Umbrüche werden automatisch du
  * BMW
  * Mercedes
  * Renault
+ * Skoda
 
 *Länder* sortiert nach Einwohnerzahl:
  1. Deutschland
